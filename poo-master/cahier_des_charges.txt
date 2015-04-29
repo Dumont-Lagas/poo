@@ -1,2 +1,0 @@
-mercredi 25 Mars 2015	-	lecture et analyse du sujet
-mercredi 29 Avril 2015	-	configuration du repo git
